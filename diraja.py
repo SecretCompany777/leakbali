@@ -4,7 +4,6 @@
 import os
 import sys
 import fileinput
-import logo
 
 N = '\033[0m'
 D = '\033[90m'
